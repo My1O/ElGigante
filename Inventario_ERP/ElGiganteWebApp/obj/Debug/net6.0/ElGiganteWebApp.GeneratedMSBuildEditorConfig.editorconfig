@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ElGiganteWebApp
+build_property.RootNamespace = ElGiganteWebApp
+build_property.ProjectDir = C:\Ing.Sis\Ing.DeSoftware_II\Proyecto\ElGIGANTE\Inventario_ERP\ElGiganteWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Ing.Sis\Ing.DeSoftware_II\Proyecto\ElGIGANTE\Inventario_ERP\ElGiganteWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Bodegas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9kZWdhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Bodegas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9kZWdhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Bodegas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9kZWdhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Bodegas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9kZWdhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Bodegas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9kZWdhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Pais/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Pais/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Pais/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Pais/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Pais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Productoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Productoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Productoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Productoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Productoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Proveedors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Proveedors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Proveedors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Proveedors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Proveedors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ing.Sis/Ing.DeSoftware_II/Proyecto/ElGIGANTE/Inventario_ERP/ElGiganteWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8sttrh0u1e
